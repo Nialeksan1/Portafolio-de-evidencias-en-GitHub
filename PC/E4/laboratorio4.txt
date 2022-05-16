@@ -1,0 +1,263 @@
+mié 02 mar 2022 20:29:22 CST
+
+ El sistema operativo es Linux
+
+
+Node with ip or url www.google.com
+ is up
+port 22 is closed
+port 23 is closed
+port 24 is closed
+port 25 is closed
+port 26 is closed
+port 27 is closed
+port 28 is closed
+port 29 is closed
+port 30 is closed
+port 31 is closed
+port 32 is closed
+port 33 is closed
+port 34 is closed
+port 35 is closed
+port 36 is closed
+port 37 is closed
+port 38 is closed
+port 39 is closed
+port 40 is closed
+port 41 is closed
+port 42 is closed
+port 43 is closed
+port 44 is closed
+port 45 is closed
+port 46 is closed
+port 47 is closed
+port 48 is closed
+port 49 is closed
+port 50 is closed
+port 51 is closed
+port 52 is closed
+port 53 is closed
+port 54 is closed
+port 55 is closed
+port 56 is closed
+port 57 is closed
+port 58 is closed
+port 59 is closed
+port 60 is closed
+port 61 is closed
+port 62 is closed
+port 63 is closed
+port 64 is closed
+port 65 is closed
+port 66 is closed
+port 67 is closed
+port 68 is closed
+port 69 is closed
+port 70 is closed
+port 71 is closed
+port 72 is closed
+port 73 is closed
+port 74 is closed
+port 75 is closed
+port 76 is closed
+port 77 is closed
+port 78 is closed
+port 79 is closed
+-> 	 [0;32mport 80 is open[0m
+
+
+Node with ip or url www.uanl.mx
+ is down or unknown
+
+
+Node with ip or url www.facebook.com
+ is up
+port 22 is closed
+port 23 is closed
+port 24 is closed
+port 25 is closed
+port 26 is closed
+port 27 is closed
+port 28 is closed
+port 29 is closed
+port 30 is closed
+port 31 is closed
+port 32 is closed
+port 33 is closed
+port 34 is closed
+port 35 is closed
+port 36 is closed
+port 37 is closed
+port 38 is closed
+port 39 is closed
+port 40 is closed
+port 41 is closed
+port 42 is closed
+port 43 is closed
+port 44 is closed
+port 45 is closed
+port 46 is closed
+port 47 is closed
+port 48 is closed
+port 49 is closed
+port 50 is closed
+port 51 is closed
+port 52 is closed
+port 53 is closed
+port 54 is closed
+port 55 is closed
+port 56 is closed
+port 57 is closed
+port 58 is closed
+port 59 is closed
+port 60 is closed
+port 61 is closed
+port 62 is closed
+port 63 is closed
+port 64 is closed
+port 65 is closed
+port 66 is closed
+port 67 is closed
+port 68 is closed
+port 69 is closed
+port 70 is closed
+port 71 is closed
+port 72 is closed
+port 73 is closed
+port 74 is closed
+port 75 is closed
+port 76 is closed
+port 77 is closed
+port 78 is closed
+port 79 is closed
+-> 	 [0;32mport 80 is open[0m
+
+
+Node with ip or url 8.8.8.8
+ is up
+port 22 is closed
+port 23 is closed
+port 24 is closed
+port 25 is closed
+port 26 is closed
+port 27 is closed
+port 28 is closed
+port 29 is closed
+port 30 is closed
+port 31 is closed
+port 32 is closed
+port 33 is closed
+port 34 is closed
+port 35 is closed
+port 36 is closed
+port 37 is closed
+port 38 is closed
+port 39 is closed
+port 40 is closed
+port 41 is closed
+port 42 is closed
+port 43 is closed
+port 44 is closed
+port 45 is closed
+port 46 is closed
+port 47 is closed
+port 48 is closed
+port 49 is closed
+port 50 is closed
+port 51 is closed
+port 52 is closed
+-> 	 [0;32mport 53 is open[0m
+port 54 is closed
+port 55 is closed
+port 56 is closed
+port 57 is closed
+port 58 is closed
+port 59 is closed
+port 60 is closed
+port 61 is closed
+port 62 is closed
+port 63 is closed
+port 64 is closed
+port 65 is closed
+port 66 is closed
+port 67 is closed
+port 68 is closed
+port 69 is closed
+port 70 is closed
+port 71 is closed
+port 72 is closed
+port 73 is closed
+port 74 is closed
+port 75 is closed
+port 76 is closed
+port 77 is closed
+port 78 is closed
+port 79 is closed
+port 80 is closed
+
+
+Node with ip or url 192.168.10.1
+ is down or unknown
+
+
+Node with ip or url 192.168.174.128
+ is up
+port 22 is closed
+port 23 is closed
+port 24 is closed
+port 25 is closed
+port 26 is closed
+port 27 is closed
+port 28 is closed
+port 29 is closed
+port 30 is closed
+port 31 is closed
+port 32 is closed
+port 33 is closed
+port 34 is closed
+port 35 is closed
+port 36 is closed
+port 37 is closed
+port 38 is closed
+port 39 is closed
+port 40 is closed
+port 41 is closed
+port 42 is closed
+port 43 is closed
+port 44 is closed
+port 45 is closed
+port 46 is closed
+port 47 is closed
+port 48 is closed
+port 49 is closed
+port 50 is closed
+port 51 is closed
+port 52 is closed
+port 53 is closed
+port 54 is closed
+port 55 is closed
+port 56 is closed
+port 57 is closed
+port 58 is closed
+port 59 is closed
+port 60 is closed
+port 61 is closed
+port 62 is closed
+port 63 is closed
+port 64 is closed
+port 65 is closed
+port 66 is closed
+port 67 is closed
+port 68 is closed
+port 69 is closed
+port 70 is closed
+port 71 is closed
+port 72 is closed
+port 73 is closed
+port 74 is closed
+port 75 is closed
+port 76 is closed
+port 77 is closed
+port 78 is closed
+port 79 is closed
+port 80 is closed
